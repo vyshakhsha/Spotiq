@@ -407,7 +407,7 @@ a:hover {
 
 .Si_number {
   display: inline-block;
-  margin-right: 10%;
+  text-align: center;
   font-weight: bold;
   font-size: 1.3rem;
   color: #fff;
